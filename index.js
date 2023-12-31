@@ -14,5 +14,5 @@ app.get('/list',(req,res)=>{
 })
 
 app.listen(4000,()=>{
-    console.log("Server started at 4000//")
+    console.log("server is running at 4000//")
 })
